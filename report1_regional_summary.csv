@@ -1,0 +1,17 @@
+Region,MainIsland,TotalBudget,MedianSavings,AvgDelay,HighDelayPct,EfficiencyScore
+National Capital Region,Luzon,"37,374,807,552.77","323,263.60",275.1,99.87%,100
+Region X,Mindanao,"21,108,791,834.06","117,252.72",363.9,100%,27.43
+Region VIII,Visayas,"18,757,160,567.23"," 61,098.65",265.9,100%,19.56
+Region IX,Mindanao," 4,292,690,070.72"," 49,482.39",353.0,100%,11.93
+Region XII,Mindanao,"11,853,038,840.21"," 19,118.15",274.5,100%,5.93
+Region II,Luzon,"22,492,433,992.21"," 10,000.00",256.7,100%,3.32
+Region IV-B,Luzon,"22,432,789,116.38","  2,975.63",268.4,99.7%,0.94
+Region III,Luzon,"62,517,911,971.79","  2,244.01",215.6,100%,0.89
+Cordillera Administrative Region,Luzon,"14,557,082,197.87","  2,461.79",241.4,100%,0.87
+Region I,Luzon,"24,127,224,108.76","  1,870.63",229.4,98.62%,0.69
+Region IV-A,Luzon,"34,613,010,963.02",    738.37,256.6,99.86%,0.24
+Region VI,Visayas,"19,178,049,284.75",    845.39,316.2,100%,0.23
+Region V,Luzon,"42,471,531,344.45",    236.28,238.5,100%,0.08
+Region XIII,Mindanao,"18,686,741,373.37",    202.65,329.9,100%,0.05
+Region VII,Visayas,"27,449,467,562.05",     28.30,250.7,99.79%,0.01
+Region XI,Mindanao,"17,878,556,404.67",      0.31,307.2,100%,0
